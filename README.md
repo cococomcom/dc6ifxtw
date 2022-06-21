@@ -3,15 +3,14 @@
 
 ### 提示：UUID请使用UUID生成器，推荐[UUID Generator](https://www.uuidgenerator.net/)
 
-### 提醒：滥用可能导致账户被删除！！！
+### 提醒：滥用可能导致账户被删除！
 
-### 提醒：配置连接方式时请仔细阅读带粗体的注意事项! ! !
+### 提醒：配置连接方式时请仔细阅读带粗体的注意事项! 
 
-### 请之前已经fork过的用户删除项目后重新fork本项目! ! !
+### 请之前已经fork过的用户删除项目后重新fork本项目! 
 
-### 已恢复Vmess、VLESS、Trojan、Shadowsocks的所有连接! ! !
+### 已恢复Vmess、VLESS、Trojan、Shadowsocks的所有连接! 
 
-### 想改其他传输协议的请参考[HTTP路由/HTTP支持版本](https://devcenter.heroku.com/articles/http-routing#http-versions-supported)然后酌情修改，仅限有经验用户修改，因修改传输协议出现连接错误的本项目不承担任何责任！！！
 
 ## 服务端创建操作流程
 
